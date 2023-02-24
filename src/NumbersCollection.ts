@@ -16,4 +16,4 @@ export class NumberCollection {
   }
 }
 
-// const collection = new NumberCollection([1, 2, 3]);
+const collection = new NumberCollection([1, 2, 3]);
